@@ -1,6 +1,3 @@
-Here's the revised project description, incorporating the integration of third-party product fetching and updating requests:
-
-### eCommerce Platform with OAuth2 Authentication
 
 **Project Title:** eCommerce Platform with OAuth2 Authentication
 
